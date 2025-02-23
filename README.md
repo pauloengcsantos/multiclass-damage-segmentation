@@ -16,6 +16,6 @@ This is a repository for *Automation in Construction* made available for researc
 ------------------------------------------------------------
 Abstract
 
-![drywall capture](https://user-images.githubusercontent.com/46803259/133132401-718525fa-4863-4ab0-a948-0418b5ee7582.JPG)
+![drywall capture](https://github.com/pauloengcsantos/multiclass-damage-segmentation/blob/main/graphical_abstract.png)
 
 ![drywall capture](http://peccft.unb.br/images/logo-pecc.png)
